@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24562" started-at="2020-02-25T14:03:17Z" finished-at="2020-02-25T14:03:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24562" started-at="2020-02-25T14:03:17Z" finished-at="2020-02-25T14:03:41Z">
+      <class name="com.app.DataProviderExcel">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.app.DataProviderExcel@53b32d7]" name="setUp" is-config="true" duration-ms="13296" started-at="2020-02-25T14:03:03Z" finished-at="2020-02-25T14:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.app.DataProviderExcel@53b32d7]" name="login" duration-ms="6780" started-at="2020-02-25T14:03:19Z" data-provider="sentrifugo" finished-at="2020-02-25T14:03:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EM01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sentrifugo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.app.DataProviderExcel@53b32d7]" name="login" duration-ms="4381" started-at="2020-02-25T14:03:25Z" data-provider="sentrifugo" finished-at="2020-02-25T14:03:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EM02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sentrifugo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.app.DataProviderExcel@53b32d7]" name="login" duration-ms="3864" started-at="2020-02-25T14:03:30Z" data-provider="sentrifugo" finished-at="2020-02-25T14:03:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EM03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sentrifugo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.app.DataProviderExcel@53b32d7]" name="login" duration-ms="3615" started-at="2020-02-25T14:03:34Z" data-provider="sentrifugo" finished-at="2020-02-25T14:03:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EM04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sentrifugo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.app.DataProviderExcel@53b32d7]" name="login" duration-ms="3885" started-at="2020-02-25T14:03:37Z" data-provider="sentrifugo" finished-at="2020-02-25T14:03:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EM05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sentrifugo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.app.DataProviderExcel@53b32d7]" name="tearDown" is-config="true" duration-ms="1390" started-at="2020-02-25T14:03:41Z" finished-at="2020-02-25T14:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.app.DataProviderExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
